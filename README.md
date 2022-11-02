@@ -12,7 +12,7 @@
   💼 Ferramentas: <strong>Visual Studio Code, Git, GitHub, WordPress</strong>
 </p>
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se você quiser falar comigo, basta me procurar em um desses canais: ⤵️
 </p>
 
 <p align="left">
