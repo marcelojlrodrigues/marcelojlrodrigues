@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Me chamo Marcelo ou se preferir pode me chamar de marjolur, sou desenvolvedor e busco trabalhar com <strong>Engenharia de Dados</strong>.<br>
-  Atualmente sou aluno da esocla Koru e venho realizando o curso semi-presencial deles nos escritórios do IFOOD, tivemos a honra de ser a primeira turma presencial do programa Potência Tech, e sou muito grato a toda equipe que disponibilizou toda condição para que isso fosse possível me nossas vidas.
+  Atualmente sou aluno da esocla Koru e venho realizando o curso semi-presencial deles nos escritórios do <strong>IFOOD</strong>strong>, tivemos a honra de ser a primeira turma presencial do programa Potência Tech, e sou muito grato a toda equipe que disponibilizou toda condição para que isso fosse possível em nossas vidas.
 </p>
 
 <p align="left">
