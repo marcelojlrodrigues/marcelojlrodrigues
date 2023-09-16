@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Marcelo, sou desenvolvedor web e busco trabalhar com javascript com <strong>desenvolvimento fullstack</strong>.<br>
-  Atualmente sou aluno da Digital House e venho atuando em um projeto profissional pessoal, na qual, desenvolvo web sites com WordPress.
+  Me chamo Marcelo ou se preferir pode me chamar de marjolur, sou desenvolvedor e busco trabalhar com <strong>Engenharia de Dados</strong>.<br>
+  Atualmente sou aluno da esocla Koru e venho realizando o curso semi-presencial deles nos escritórios do IFOOD, tivemos a honra de ser a primeira turma presencial do programa Potência Tech, e sou muito grato a toda equipe que disponibilizou toda condição para que isso fosse possível me nossas vidas.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5 , CSS e JavaScript, PHP, MySql</strong>
+  🦄 Linguagens: <strong>HTML5 , CSS e JavaScript, PHP, MySql, Python, entre outros</strong>
 </p>
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Git, GitHub, WordPress</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Git, GitHub, WordPress, DB Weaver, Power BI</strong>
 </p>
 <p align="left">
   💌 Se você quiser falar comigo, basta me procurar em um desses canais: ⤵️
